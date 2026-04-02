@@ -1,0 +1,14 @@
+
+
+**Database Name: tms**
+
+
+
+**Recommended PHP Version: 5.6, 7.4, 8.1**
+
+
+**Admin Login Details**
+
+username   : admin
+Password:  Test@123
+
